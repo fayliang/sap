@@ -1,0 +1,22 @@
+body {
+  font-family: 'Baru Sans Thin', sans-serif !important;
+  /* font-weight: '700' !important; */
+}
+
+.projectNames {
+ font-size: large;
+}
+
+p {
+  white-space: 'nowrap';
+}
+
+.nav-links {
+  color: black !important;
+  /* font-weight: 'bold'; */
+}
+
+.nav-links:hover {
+  color: #59775E !important;
+  /* text-decoration:underline; */
+}
